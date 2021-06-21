@@ -1,0 +1,14 @@
+p{
+	background-color:black;
+	color:white;
+}
+
+div p{
+	text-alian:center;
+	background-color:blue;
+	color:yellow;
+}
+
+div:hover{
+	background-color: #EA7500;
+}
